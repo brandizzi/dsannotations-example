@@ -1,0 +1,4 @@
+Bundle-Name: dsannotations-example
+Bundle-SymbolicName: com.liferay.dsannotations.example
+Bundle-Version: 1.0.0
+Web-ContextPath: /ds
